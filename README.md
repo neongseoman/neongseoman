@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 -->
 
 
-###Persnal Blog
+### Persnal Blog about me
 #### About Progaming (https://velog.io/@moon-jar)
-#### Other 독서 일기 (https://blog.naver.com/rmstn8426)
+#### Other topic (https://blog.naver.com/rmstn8426)
