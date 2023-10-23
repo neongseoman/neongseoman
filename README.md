@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+###Persnal Blog
+#### About Progaming (https://velog.io/@moon-jar)
+#### Other 독서 일기 (https://blog.naver.com/rmstn8426)
