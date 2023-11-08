@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 
 ### Persnal Blog about me
 #### About Progaming (https://velog.io/@moon-jar)
-#### Other topic (https://blog.naver.com/rmstn8426)
