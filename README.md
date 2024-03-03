@@ -3,12 +3,13 @@
 ### rmstn8426@gmail.com
 
 
-# SKILLOO...
+# SKILL
 ![NODE](https://img.shields.io/badge/Node-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TS-NODE](https://img.shields.io/badge/TS-Node-3178C6.svg?&style=for-the-badge&logo=tsnode&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![TS](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![jetbrains](https://img.shields.io/badge/jetbrains-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-green.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
 <!--
 **neongseoman/neongseoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
