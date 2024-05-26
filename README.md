@@ -11,6 +11,14 @@
 ![jetbrains](https://img.shields.io/badge/jetbrains-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)
 ![JAVA](https://img.shields.io/badge/java-green.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Spring](https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=jpa&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+![Gitlab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
 <!--
 **neongseoman/neongseoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
