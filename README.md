@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/gRPC-00B388?style=for-the-badge&logo=gRPC&logoColor=white">
+  <img src="https://img.shields.io/badge/webRTC-DA0E29?style=for-the-badge&logo=webRTC&logoColor=white"
 </div>
 
 <!--
