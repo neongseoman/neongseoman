@@ -10,6 +10,7 @@
 ![TS](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![jetbrains](https://img.shields.io/badge/jetbrains-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)
 ![JAVA](https://img.shields.io/badge/java-green.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 <!--
 **neongseoman/neongseoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
